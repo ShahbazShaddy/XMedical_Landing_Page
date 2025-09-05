@@ -101,7 +101,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 text-sm mb-4 md:mb-0">
-            © 2024 XMedical AI. Built by Syed M Danish. For educational and research purposes.
+            © 2024 XMedical AI. Built by Harmain Iftikhar. For educational and research purposes.
           </p>
           <div className="flex items-center space-x-4">
             <button 

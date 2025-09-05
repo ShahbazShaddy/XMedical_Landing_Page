@@ -54,7 +54,7 @@ const About = () => {
                   </div>
                   <div className="flex-1">
                     <h3 className="text-xl font-semibold text-gray-900 mb-1">
-                      Abdul Saboor
+                      Hussain Iftikhar
                     </h3>
                     <p className="text-medical-primary font-medium mb-2">Founder & Lead AI Researcher</p>
                     <p className="text-sm text-gray-600 leading-relaxed">

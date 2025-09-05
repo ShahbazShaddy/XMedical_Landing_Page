@@ -28,13 +28,13 @@ const ContactModal = () => {
 
   const handleLinkedInClick = () => {
     console.log('Opening LinkedIn profile')
-    window.open('https://www.linkedin.com/in/dementor-abdul-saboor/', '_blank')
+    window.open('https://www.linkedin.com/in/hussain-iftikhar-2403a2200/', '_blank')
     toast.success('Opening LinkedIn profile...')
   }
 
   const handleEmailClick = () => {
     console.log('Opening email client')
-    window.location.href = 'mailto:2022cs10@student.uet.edu.pk'
+    window.location.href = 'mailto:2022cs7@student.uet.edu.pk'
     toast.success('Opening email client...')
   }
 
@@ -99,7 +99,7 @@ const ContactModal = () => {
                         Email Direct
                         <ExternalLink className="h-4 w-4 ml-2 text-gray-400" />
                       </h3>
-                      <p className="text-sm text-gray-600">2022cs10@student.uet.edu.pk</p>
+                      <p className="text-sm text-gray-600">2022cs7@student.uet.edu.pk</p>
                     </div>
                   </div>
                 </CardContent>
@@ -108,7 +108,7 @@ const ContactModal = () => {
 
             <div className="pt-4 border-t border-gray-200">
               <p className="text-xs text-gray-500 text-center">
-                Abdul Saboor • AI Researcher & Founder of XMedical AI
+                Hussain Iftikhar • AI Researcher & Founder of XMedical AI
                 <br />
                 Specializing in Explainable Medical AI Solutions
               </p>
