@@ -99,7 +99,7 @@ const ContactModal = () => {
                         Email Direct
                         <ExternalLink className="h-4 w-4 ml-2 text-gray-400" />
                       </h3>
-                      <p className="text-sm text-gray-600">2022cs10@gmail.com</p>
+                      <p className="text-sm text-gray-600">2022cs10@student.uet.edu.pk</p>
                     </div>
                   </div>
                 </CardContent>
