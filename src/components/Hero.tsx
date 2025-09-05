@@ -7,7 +7,7 @@ const Hero = () => {
 
   const handleTryDemo = () => {
     console.log('Redirecting to demo application from hero')
-    window.open('https://xmedical.streamlit.app/', '_blank')
+    window.open('https://xmedical-demo.streamlit.app//', '_blank')
   }
 
   const openContactModal = () => {

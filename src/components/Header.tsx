@@ -18,7 +18,7 @@ const Header = () => {
 
   const handleTryDemo = () => {
     console.log('Redirecting to demo application')
-    window.open('https://xmedical.streamlit.app/', '_blank')
+    window.open('https://xmedical-demo.streamlit.app//', '_blank')
   }
 
   return (

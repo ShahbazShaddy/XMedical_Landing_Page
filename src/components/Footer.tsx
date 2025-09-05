@@ -7,7 +7,7 @@ const Footer = () => {
 
   const handleTryDemo = () => {
     console.log('Redirecting to demo from footer')
-    window.open('https://xmedical.streamlit.app/', '_blank')
+    window.open('https://xmedical-demo.streamlit.app/', '_blank')
   }
 
   const openContactModal = () => {
