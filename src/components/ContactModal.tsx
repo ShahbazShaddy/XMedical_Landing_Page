@@ -34,7 +34,7 @@ const ContactModal = () => {
 
   const handleEmailClick = () => {
     console.log('Opening email client')
-    window.location.href = 'mailto:2022cs10@gmail.com'
+    window.location.href = 'mailto:2022cs10@student.uet.edu.pk'
     toast.success('Opening email client...')
   }
 
